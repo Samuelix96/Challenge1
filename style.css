@@ -1,0 +1,70 @@
+
+    body {
+        margin: 0;
+        text-align: center;
+        color: black;
+              
+    }
+    header img {
+        width: 200px; 
+        margin: 1rem 0;
+        margin: auto;
+    }
+
+     header {
+        background-color: #fefbf1;
+        padding: 1rem 0;
+        border-top: 1px solid #ffd977;
+        color: #004d4d;
+        font-size: 0.8rem;
+        margin-bottom: 4rem;
+    }
+
+    header span {
+        text-align: center;
+    }
+
+            
+            
+
+    h1 {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    main {
+        width: 50%;
+        text-align: left;
+        margin: auto;
+    }
+    h5 {
+        color: rgba(0, 0, 0, 0.4);
+        text-align: center;
+        margin-top: 1rem;
+    }
+    .title div {
+        border-left: 1px solid #ffd977;
+        padding-left: 1rem;
+        margin-top: 2rem;
+    }
+
+    .title div span {
+        color: #b5460f;
+        display: block;
+    }
+
+    .elenchi  h2 {
+        border-bottom: 1px solid rgb(197, 243, 243);
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        font-weight: 100;
+    }
+
+    ul {
+        margin-bottom: 2rem;
+    }
+
+    li {
+         margin-bottom: 1rem;
+    }
+
