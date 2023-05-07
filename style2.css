@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+* {
+    box-sizing: border-box;
+  }
+.wd100 {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+}
+.bgdark {
+    background-color: #212F3E;
+
+}
+header img {
+    height: 40px;
+}
+.elenchi {
+    background-color: #354758;
+    color: #EAEDED;
+    padding: 0.5rem;
+
+}
+header div span {
+    margin-right: 10px;
+}
+main {
+    padding: 2rem;
+    background-color: #EAEDED;
+}
+.pretitle {
+    background-color: #F56600;
+    padding: 0.5rem;
+    text-align: center;
+    margin: 2rem;
+    margin-top: 0;
+}
+
+.pretitle span {
+    color: #EAEDED;
+}
+.title {
+    background-image: url(assets/bg-image.png);
+    background-repeat: repeat-y;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+}
+.box {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+.container1 {
+    text-align: left;
+    padding: 1rem 1rem 0 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    
+}
+.shop {
+    color: #4A98A6;
+    font-weight: bold;
+}
+.img1 {
+    width: 20%;
+    border-radius: 20px;
+    margin: 1rem;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+.img2 {
+    width: 20%;
+    margin: 1rem;
+    border-radius: 20px;
+    height: 240px;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+.img3 {
+    width: 20%;
+    margin: 1rem;
+    border-radius: 20px;
+    height: 240px;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+.img4 {
+    width: 20%;
+    border-radius: 20px;
+    margin: 1rem;
+    object-fit: cover;
+    height: 240px;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+        box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+.img-box2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    
+}
+.marg {
+    margin-top: 1rem;
+}
+.img9 {
+    width: 100%;
+}
+.back-blu {
+    text-align: center;
+    background-color: #354758;
+    padding: 0.3rem;
+}
+.top {
+    color: #EAEDED;
+
+}
+footer {
+    width: 100%;
+}
+.backfooter {
+    background-color: #212F3E;
+    padding: 1rem;
+}
+#logofinale {
+    height: 40px;
+    margin-left: 560px;
+}
+.genarale {
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 2rem;
+    padding: 20px;
+}
+.all-blocco {
+    width: 23%;
+    display: inline-block;
+    margin-right: 1rem;
+    background-color: white;
+}
+.gaming-titolo {
+    font-weight: 600;
+    font-size: 21px;
+    margin: 0 2rem;
+    text-align: left;
+}
+
+.all-elemnti {
+    padding: 1rem;
+}
+.fascia1 .fascia2 {
+    width: 100%;
+    
+}
+.primo-elem  {
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+.generale {
+    width: 100%;
+    padding: 20px;
+}
+.seemore {
+    padding: 1rem;
+    color: #007185;
+}
+
+    
